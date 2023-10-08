@@ -69,3 +69,15 @@ time platanus gap_close -o Poil -c Poil_scaffold.fa -IP1 sub_oil_r1.fq.trimmed s
 ```
 rm sub*.trimmed matep*.int_trimmed
 ```
+
+# Тетрадка с кодом:
+[Клик](https://colab.research.google.com/drive/1lyWMpQfHk0wZs59F9fC2ui60jlahFd4h?usp=sharing)
+
+# Отчеты от MultiQC:
+## Для начальных чтений:
+![](images/start_gen_stat.png)
+![](images/start_quality.png)
+
+## Для подрезанных чтений:
+![](images/procced_gen_stat.png)
+![](images/procced_quality.png)
